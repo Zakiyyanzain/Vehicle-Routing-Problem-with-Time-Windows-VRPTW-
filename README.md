@@ -1,4 +1,4 @@
-# Vehicle-Routing-Problem-with-Time-Windows-VRPTW-
+# Vehicle-Routing-Problem-with-Time-Windows-VRPTW
 Vehicle Routing Problem
 📌 Introduction
 This problem aims to find the optimal route for multiple vehicles (in this case, buses) to visit multiple locations (pick-up and drop-off points) considering time and capacity constraints.
